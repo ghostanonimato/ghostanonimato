@@ -1,3 +1,5 @@
+#sou do brasil
+
 👋 Olá, sou @ghostanonimato 
 2 - 👀 Estou interessado em:python,C,C++,html
 3 - 🌱 Atualmente estou aprendendo:python,C,html
