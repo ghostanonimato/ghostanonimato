@@ -1,6 +1,6 @@
 #sou do brasil
 
-👋 Olá, sou @ghostanonimato 
+👋 Olá, sou @Yeux 
 2 - 👀 Estou interessado em:python,C,C++,html
 3 - 🌱 Atualmente estou aprendendo:python,C,html
 4 - 💞️ Estou procurando colaborar em:... 
